@@ -1,2 +1,2 @@
 # Hello-World
-just saying hi
+I'm just following along with the tutorial that shows me how to use GitHub.  
